@@ -26,4 +26,4 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 You can find the same information in the [contributing guide.](https://github.com/nsalerni/2048/blob/master/CONTRIBUTING.md)
 
 ## License
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+2048 is licensed under the [MIT license.](https://github.com/nsalerni/2048/blob/master/LICENSE.txt)
